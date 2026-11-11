@@ -1,0 +1,45 @@
+{
+  "id": "site-observation-follow-up",
+  "name": "Site observation follow-up",
+  "kind": "capability-template",
+  "version": "0.1.1",
+  "summary": "After a site visit, the visiting engineer and the project manager get one observation report: each field note beside its location, source photograph, drawing revision and any earlier register entry, a proposed follow-up owner, and the questions still open. It assesses no condition.",
+  "directory": "https://fullypowered.ai/capabilities/site-observation-follow-up/",
+  "primary_function": "functions/quality-management",
+  "functions": [
+    "functions/quality-management",
+    "functions/project-and-delivery"
+  ],
+  "industries": [
+    "industries/engineering-firms",
+    "industries/construction"
+  ],
+  "situations": [
+    "situations/established-businesses"
+  ],
+  "related": [
+    "punch-list-consolidation",
+    "safety-walk-follow-up",
+    "submittal-register-review"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Written by Fully Powered AI from its own published map of the work."
+    }
+  ]
+}

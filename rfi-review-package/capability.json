@@ -1,0 +1,46 @@
+{
+  "id": "rfi-review-package",
+  "name": "RFI review package",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "The project engineer gets one packet for each request for information: the register entry, the question word for word, the drawing revisions and specification extracts it touches, earlier responses, and a numbered list of what is unresolved. No answer is proposed.",
+  "directory": "https://fullypowered.ai/capabilities/rfi-review-package/",
+  "primary_function": "functions/project-and-delivery",
+  "functions": [
+    "functions/project-and-delivery",
+    "functions/quality-management"
+  ],
+  "industries": [
+    "industries/engineering-firms",
+    "industries/construction"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "submittal-register-review",
+    "reviewer-comments-resolution-list",
+    "project-scope-baseline"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Its own published map of engineering-firm work, written from how a request for information is received, matched to the design documents and routed."
+    }
+  ]
+}

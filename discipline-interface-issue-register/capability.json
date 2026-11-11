@@ -1,0 +1,46 @@
+{
+  "id": "discipline-interface-issue-register",
+  "name": "Discipline interface issue register",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "After a coordination meeting exposes conflicts between disciplines, the design coordinator gets one register: each conflict from the minutes, linked to the clash-export rows and model revisions involved, with the lead who owns each system and the decision still needed. Nothing is resolved.",
+  "directory": "https://fullypowered.ai/capabilities/discipline-interface-issue-register/",
+  "primary_function": "functions/project-and-delivery",
+  "functions": [
+    "functions/project-and-delivery"
+  ],
+  "industries": [
+    "industries/engineering-firms",
+    "industries/construction"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "three-week-look-ahead-constraint-review",
+    "project-status-report",
+    "design-assumption-change-register",
+    "submittal-register-review"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own design, written from its published map of the work of turning a coordination meeting's conflicts into an interface-issue register: each conflict taken from the minutes, linked to clash-export rows and model revisions, tied to the lead who owns each system, with the decision still needed and nothing resolved, proposed or checked in a model."
+    }
+  ]
+}

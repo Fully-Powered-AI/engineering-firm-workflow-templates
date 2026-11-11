@@ -1,0 +1,47 @@
+{
+  "id": "project-experience-sheet",
+  "name": "Project experience sheet",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "For one finished project and one proposal, turn the firm's approved project records into a one-page experience sheet: the firm's role, the scope it performed, partners' work kept apart, and the record behind each line. Names, images and permissions still to confirm are listed for sign-off.",
+  "directory": "https://fullypowered.ai/capabilities/project-experience-sheet/",
+  "primary_function": "functions/marketing-and-content",
+  "functions": [
+    "functions/marketing-and-content",
+    "functions/sales"
+  ],
+  "industries": [
+    "industries/engineering-firms",
+    "industries/professional-services",
+    "industries/construction"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "customer-case-study",
+    "bid-or-no-bid-and-rfp-response-plan",
+    "sales-proposal-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own design, written from its published map of the work of preparing a project experience sheet for an engineering firm's proposal: a register of statements with their source records and who performed the work, a register of permissions, the firm's work kept apart from partners' work, design performance and unsupported results left out, and every name, image and claim held for a person's approval."
+    }
+  ]
+}

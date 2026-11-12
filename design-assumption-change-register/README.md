@@ -2,7 +2,7 @@
 
 When client criteria or design assumptions change, the project engineer gets one sourced register: what changed, which recorded requirements it touches, how firm each source is, and what still needs confirmation. No design basis is altered.
 
-*Workflow template · Engineering firms · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/design-assumption-change-register/)*
+*Workflow template · Engineering firms · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/design-assumption-change-register/)*
 
 ## The outcome
 
@@ -72,9 +72,9 @@ Testing in your environment means running it on a past change you already know, 
 
 ## Related workflow templates
 
-- [Scope change impact review](https://fullypowered.ai/workflow templates/scope-change-impact-review/)
-- [Decision log](https://fullypowered.ai/workflow templates/decision-log/)
-- [Acceptance criteria sheet](https://fullypowered.ai/workflow templates/acceptance-criteria-sheet/)
+- [Scope change impact review](https://fullypowered.ai/workflows/scope-change-impact-review/)
+- [Decision log](https://fullypowered.ai/workflows/decision-log/)
+- [Acceptance criteria sheet](https://fullypowered.ai/workflows/acceptance-criteria-sheet/)
 
 ## Make it yours
 

@@ -2,7 +2,7 @@
 
 The project engineer gets one packet for each request for information: the register entry, the question word for word, the drawing revisions and specification extracts it touches, earlier responses, and a numbered list of what is unresolved. No answer is proposed.
 
-*Workflow template · Engineering firms · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/rfi-review-package/)*
+*Workflow template · Engineering firms · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/rfi-review-package/)*
 
 ## The outcome
 
@@ -75,9 +75,9 @@ Testing on your project means running it on requests your project engineer alrea
 
 ## Related workflow templates
 
-- [Submittal register review](https://fullypowered.ai/workflow templates/submittal-register-review/)
-- [Reviewer comments into one resolution list](https://fullypowered.ai/workflow templates/reviewer-comments-resolution-list/)
-- [Project scope baseline](https://fullypowered.ai/workflow templates/project-scope-baseline/)
+- [Submittal register review](https://fullypowered.ai/workflows/submittal-register-review/)
+- [Reviewer comments into one resolution list](https://fullypowered.ai/workflows/reviewer-comments-resolution-list/)
+- [Project scope baseline](https://fullypowered.ai/workflows/project-scope-baseline/)
 
 ## Make it yours
 

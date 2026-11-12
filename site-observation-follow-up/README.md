@@ -2,7 +2,7 @@
 
 After a site visit, the visiting engineer and the project manager get one observation report: each field note beside its location, source photograph, drawing revision and any earlier register entry, a proposed follow-up owner, and the questions still open. It assesses no condition.
 
-*Workflow template · Engineering firms · Quality management · version 0.1.1 · [Workflows Directory](https://fullypowered.ai/workflow templates/site-observation-follow-up/)*
+*Workflow template · Engineering firms · Quality management · version 0.1.1 · [Workflows Directory](https://fullypowered.ai/workflows/site-observation-follow-up/)*
 
 ## The outcome
 
@@ -70,9 +70,9 @@ Fully Powered AI wrote this workflow template in its own words from its own map 
 
 ## Related workflow templates
 
-- [Punch list consolidation](https://fullypowered.ai/workflow templates/punch-list-consolidation/)
-- [Safety walk follow-up](https://fullypowered.ai/workflow templates/safety-walk-follow-up/)
-- [Submittal register review](https://fullypowered.ai/workflow templates/submittal-register-review/)
+- [Punch list consolidation](https://fullypowered.ai/workflows/punch-list-consolidation/)
+- [Safety walk follow-up](https://fullypowered.ai/workflows/safety-walk-follow-up/)
+- [Submittal register review](https://fullypowered.ai/workflows/submittal-register-review/)
 
 ## Make it yours
 

@@ -2,7 +2,7 @@
 
 After a coordination meeting exposes conflicts between disciplines, the design coordinator gets one register: each conflict from the minutes, linked to the clash-export rows and model revisions involved, with the lead who owns each system and the decision still needed. Nothing is resolved.
 
-*Workflow template · Engineering firms · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/discipline-interface-issue-register/)*
+*Workflow template · Engineering firms · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/discipline-interface-issue-register/)*
 
 ## The outcome
 
@@ -78,10 +78,10 @@ Testing in your environment means running it on one or two past meetings your co
 
 ## Related workflow templates
 
-- [Three-week look-ahead constraint review](https://fullypowered.ai/workflow templates/three-week-look-ahead-constraint-review/)
-- [Project status report](https://fullypowered.ai/workflow templates/project-status-report/)
+- [Three-week look-ahead constraint review](https://fullypowered.ai/workflows/three-week-look-ahead-constraint-review/)
+- [Project status report](https://fullypowered.ai/workflows/project-status-report/)
 - [Design assumption change register](../design-assumption-change-register/)
-- [Submittal register review](https://fullypowered.ai/workflow templates/submittal-register-review/)
+- [Submittal register review](https://fullypowered.ai/workflows/submittal-register-review/)
 
 ## Make it yours
 

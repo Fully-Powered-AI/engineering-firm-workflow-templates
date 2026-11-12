@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.1",
   "summary": "After a site visit, the visiting engineer and the project manager get one observation report: each field note beside its location, source photograph, drawing revision and any earlier register entry, a proposed follow-up owner, and the questions still open. It assesses no condition.",
-  "directory": "https://fullypowered.ai/workflow templates/site-observation-follow-up/",
+  "directory": "https://fullypowered.ai/workflows/site-observation-follow-up/",
   "primary_function": "functions/quality-management",
   "functions": [
     "functions/quality-management",

@@ -2,7 +2,7 @@
 
 As a calculation, report or drawing package nears issue, the quality reviewer or document controller gets a checklist: missing review records, revisions that disagree between the index, the register and the title block, and citations of out-of-date calculations. Issue stays with the engineers.
 
-*Workflow template · Engineering firms · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/deliverable-issue-completeness-check/)*
+*Workflow template · Engineering firms · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/deliverable-issue-completeness-check/)*
 
 ## The outcome
 
@@ -81,9 +81,9 @@ Fully Powered AI wrote this workflow template in its own words from its own map 
 
 ## Related workflow templates
 
-- [Completed engagement file review](https://fullypowered.ai/workflow templates/completed-engagement-file-review/)
-- [Spreadsheet check before sharing](https://fullypowered.ai/workflow templates/spreadsheet-check-before-sharing/)
-- [Submittal register review](https://fullypowered.ai/workflow templates/submittal-register-review/)
+- [Completed engagement file review](https://fullypowered.ai/workflows/completed-engagement-file-review/)
+- [Spreadsheet check before sharing](https://fullypowered.ai/workflows/spreadsheet-check-before-sharing/)
+- [Submittal register review](https://fullypowered.ai/workflows/submittal-register-review/)
 
 ## Make it yours
 

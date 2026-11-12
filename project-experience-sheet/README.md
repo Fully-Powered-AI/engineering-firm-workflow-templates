@@ -2,7 +2,7 @@
 
 For one finished project and one proposal, turn the firm's approved project records into a one-page experience sheet: the firm's role, the scope it performed, partners' work kept apart, and the record behind each line. Names, images and permissions still to confirm are listed for sign-off.
 
-*Workflow template · Engineering firms · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/project-experience-sheet/)*
+*Workflow template · Engineering firms · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/project-experience-sheet/)*
 
 ## The outcome
 
@@ -89,9 +89,9 @@ Testing in your environment means running it on a finished project the principal
 
 ## Related workflow templates
 
-- [Customer case study](https://fullypowered.ai/workflow templates/customer-case-study/)
-- [Bid or no-bid and RFP response plan](https://fullypowered.ai/workflow templates/bid-or-no-bid-and-rfp-response-plan/)
-- [Sales proposal preparation](https://fullypowered.ai/workflow templates/sales-proposal-preparation/)
+- [Customer case study](https://fullypowered.ai/workflows/customer-case-study/)
+- [Bid or no-bid and RFP response plan](https://fullypowered.ai/workflows/bid-or-no-bid-and-rfp-response-plan/)
+- [Sales proposal preparation](https://fullypowered.ai/workflows/sales-proposal-preparation/)
 
 ## Make it yours
 

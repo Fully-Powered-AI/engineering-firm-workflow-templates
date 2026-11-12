@@ -1,6 +1,6 @@
 # Discipline interface issue register
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -37,7 +37,7 @@ The person supplies these as files or pasted text. The assistant works from them
 4. **Model revision index.** Default headings: `model_id, discipline, current_revision, revision_date`. One row per model. If not supplied, write "not supplied": every model reference is then "not in index".
 5. **Responsibilities table.** Default headings: `system, owning_discipline, owner_role`. One row per system. If not supplied, write "not supplied": every system is then "owner not assigned".
 6. **Discipline sketches,** optional. Default headings: `sketch_id, discipline, dated, subject, cites`. Cites is an issue or clash number, or a dash for none. If not supplied, write "not supplied".
-7. **Previous register,** optional, in this capability's output format. If not supplied, write "none".
+7. **Previous register,** optional, in this workflow template's output format. If not supplied, write "none".
 
 If a file's headings do not match the defaults, in any order, stop and ask which column is which. Never guess a column. If a date could be read two ways, stop and ask. If two rows share a clash_id, a model_id or a system, stop and ask which is right.
 

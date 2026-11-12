@@ -1,6 +1,6 @@
 # Discipline interface issue register: an invented example
 
-*Illustrative example with invented data.* The firm, the project, the roles, the model names, the clash numbers, the dates and every line below are invented. The firm is an invented engineering consultancy, Quillon Bay Engineers, with structural, civil, mechanical and electrical teams and a design coordinator. First come the inputs the coordinator supplied, in full, then the register the capability returned.
+*Illustrative example with invented data.* The firm, the project, the roles, the model names, the clash numbers, the dates and every line below are invented. The firm is an invented engineering consultancy, Quillon Bay Engineers, with structural, civil, mechanical and electrical teams and a design coordinator. First come the inputs the coordinator supplied, in full, then the register the workflow template returned.
 
 ## The inputs
 

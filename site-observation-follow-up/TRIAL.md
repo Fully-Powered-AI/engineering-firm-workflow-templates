@@ -4,7 +4,7 @@
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10 (both runs)
 
-This record holds two runs. The first was made on version 0.1.0 and is kept exactly as it was recorded, including the findings that led to the fixes. The second was made on version 0.1.1, after those fixes, and is described after it. The inputs are the invented example published with this capability template. No client data was used. The model was given only the template's instruction block and output format, and the six invented inputs from `public/example.md` (visit details, field notes, photograph set, drawing register, prior observation register, owner list). It did not see the example's report until after it had produced its own. The model that made the first run did not write the template; see the second run for its limits.
+This record holds two runs. The first was made on version 0.1.0 and is kept exactly as it was recorded, including the findings that led to the fixes. The second was made on version 0.1.1, after those fixes, and is described after it. The inputs are the invented example published with this workflow template. No client data was used. The model was given only the template's instruction block and output format, and the six invented inputs from `public/example.md` (visit details, field notes, photograph set, drawing register, prior observation register, owner list). It did not see the example's report until after it had produced its own. The model that made the first run did not write the template; see the second run for its limits.
 
 ## First run (version 0.1.0): what came out
 
@@ -89,7 +89,7 @@ It was compared with the example's published report afterwards. The two agree on
 - **Two notes linked to one register entry** (F-01 and F-06 to OBS-03). The template does not say whether the entry's details are printed in full under each note (this run did) or only once. The summary's "to [n] earlier entries" is read here as the number of different entries.
 - **Watch words.** The template does not say whether a watch word matches inside a longer word (for example "safe" inside "unsafe", or "done" inside "abandoned") or only as a whole word, or whether other forms count (for example "completes" for "complete"). This run matched whole words only. The list also leaves out words that appear in the example, such as "sealed", which was correctly not flagged.
 - **Link by text** is on location and element only, so F-06 (anchor bolts) links to OBS-03 (a chipped grout pad) because both are at Grid B/2, Column base. The template says a link is only a pointer, and this run said no more than that, but a reader may find the link surprising.
-- **Square-bracket references** in the "When to use it" section, such as [punch list consolidation], read as placeholders to fill in. They name other capability templates and are not marked as links.
+- **Square-bracket references** in the "When to use it" section, such as [punch list consolidation], read as placeholders to fill in. They name other workflow templates and are not marked as links.
 - **Version notes** still say the template has not yet been tried on its invented example. They will need updating once this record is accepted.
 
 The first run's note that its example's report differs on owner counts and project manager questions describes the example as it stood then. The example was corrected afterwards (see the second run).
@@ -98,7 +98,7 @@ Fixing the first two items in the template (a stated rule for how a conflict is 
 
 ## Second run (version 0.1.1): what changed in the template
 
-After an independent review of the first run, the template was edited. A conflict between the register owner and the owner list is now printed as "in conflict" with both roles and counted as in conflict, not as proposed. An owner in conflict on a note linked to a past-due entry is asked in that entry's question. Questions are ordered by note number. Watch words match whole words in any ordinary form, "loose" is a watch word, and a line sends anything that may concern safety to the project's safety professional. A register entry shared by two notes has its details printed under each note and counted once. The related capability templates are written as plain names. The example's report was corrected to agree, and F-05 now draws the watch word "loose".
+After an independent review of the first run, the template was edited. A conflict between the register owner and the owner list is now printed as "in conflict" with both roles and counted as in conflict, not as proposed. An owner in conflict on a note linked to a past-due entry is asked in that entry's question. Questions are ordered by note number. Watch words match whole words in any ordinary form, "loose" is a watch word, and a line sends anything that may concern safety to the project's safety professional. A register entry shared by two notes has its details printed under each note and counted once. The related workflow templates are written as plain names. The example's report was corrected to agree, and F-05 now draws the watch word "loose".
 
 ## Second run: what came out
 

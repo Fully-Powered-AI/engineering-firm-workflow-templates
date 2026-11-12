@@ -2,7 +2,7 @@
 
 For one finished project and one proposal, turn the firm's approved project records into a one-page experience sheet: the firm's role, the scope it performed, partners' work kept apart, and the record behind each line. Names, images and permissions still to confirm are listed for sign-off.
 
-*Capability template · Engineering firms · Marketing and content · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/project-experience-sheet/)*
+*Workflow template · Engineering firms · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/project-experience-sheet/)*
 
 ## The outcome
 
@@ -16,7 +16,7 @@ The project principal checks that every line is the firm's own contribution. Mar
 
 The proposal lead or a business development coordinator starts it when a request for qualifications or a proposal asks for a relevant project, and runs it once for each project the team wants to show. The project principal verifies the firm's contribution. A marketing lead approves names, images and wording.
 
-The capability prepares. It contacts no client and no partner, sends nothing, and changes no record.
+The workflow template prepares. It contacts no client and no partner, sends nothing, and changes no record.
 
 ## What they supply
 
@@ -60,9 +60,9 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it and lists the small edits made afterward that have not been run again. It has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it and lists the small edits made afterward that have not been run again. It has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a finished project the principal knows well, plus cases written in advance with the expected result: a row about a partner's work marked as the firm's, a result quoted from a newsletter, a header that has been renamed, an image whose permission is still pending, a request to make the firm's role sound larger. The principal checks every line against the records before anyone relies on the sheet. [Customer case study](https://fullypowered.ai/capabilities/customer-case-study/) is the capability for telling a project in the client's own words, and [Bid or no-bid and RFP response plan](https://fullypowered.ai/capabilities/bid-or-no-bid-and-rfp-response-plan/) is the one for deciding whether to respond at all.
+Testing in your environment means running it on a finished project the principal knows well, plus cases written in advance with the expected result: a row about a partner's work marked as the firm's, a result quoted from a newsletter, a header that has been renamed, an image whose permission is still pending, a request to make the firm's role sound larger. The principal checks every line against the records before anyone relies on the sheet. [Customer case study](https://fullypowered.ai/workflows/customer-case-study/) is the workflow template for telling a project in the client's own words, and [Bid or no-bid and RFP response plan](https://fullypowered.ai/workflows/bid-or-no-bid-and-rfp-response-plan/) is the one for deciding whether to respond at all.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -73,11 +73,11 @@ Testing in your environment means running it on a finished project the principal
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -87,12 +87,12 @@ Testing in your environment means running it on a finished project the principal
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Customer case study](https://fullypowered.ai/capabilities/customer-case-study/)
-- [Bid or no-bid and RFP response plan](https://fullypowered.ai/capabilities/bid-or-no-bid-and-rfp-response-plan/)
-- [Sales proposal preparation](https://fullypowered.ai/capabilities/sales-proposal-preparation/)
+- [Customer case study](https://fullypowered.ai/workflow templates/customer-case-study/)
+- [Bid or no-bid and RFP response plan](https://fullypowered.ai/workflow templates/bid-or-no-bid-and-rfp-response-plan/)
+- [Sales proposal preparation](https://fullypowered.ai/workflow templates/sales-proposal-preparation/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

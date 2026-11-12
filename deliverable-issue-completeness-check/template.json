@@ -1,10 +1,10 @@
 {
   "id": "deliverable-issue-completeness-check",
   "name": "Deliverable issue completeness check",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "As a calculation, report or drawing package nears issue, the quality reviewer or document controller gets a checklist: missing review records, revisions that disagree between the index, the register and the title block, and citations of out-of-date calculations. Issue stays with the engineers.",
-  "directory": "https://fullypowered.ai/capabilities/deliverable-issue-completeness-check/",
+  "directory": "https://fullypowered.ai/workflow templates/deliverable-issue-completeness-check/",
   "primary_function": "functions/quality-management",
   "functions": [
     "functions/quality-management",

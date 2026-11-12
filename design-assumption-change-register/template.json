@@ -1,10 +1,10 @@
 {
   "id": "design-assumption-change-register",
   "name": "Design assumption change register",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "When client criteria or design assumptions change, the project engineer gets one sourced register: what changed, which recorded requirements it touches, how firm each source is, and what still needs confirmation. No design basis is altered.",
-  "directory": "https://fullypowered.ai/capabilities/design-assumption-change-register/",
+  "directory": "https://fullypowered.ai/workflow templates/design-assumption-change-register/",
   "primary_function": "functions/project-and-delivery",
   "functions": [
     "functions/project-and-delivery"

@@ -1,10 +1,10 @@
 {
   "id": "rfi-review-package",
   "name": "RFI review package",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "The project engineer gets one packet for each request for information: the register entry, the question word for word, the drawing revisions and specification extracts it touches, earlier responses, and a numbered list of what is unresolved. No answer is proposed.",
-  "directory": "https://fullypowered.ai/capabilities/rfi-review-package/",
+  "directory": "https://fullypowered.ai/workflow templates/rfi-review-package/",
   "primary_function": "functions/project-and-delivery",
   "functions": [
     "functions/project-and-delivery",

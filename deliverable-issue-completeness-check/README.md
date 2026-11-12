@@ -2,13 +2,13 @@
 
 As a calculation, report or drawing package nears issue, the quality reviewer or document controller gets a checklist: missing review records, revisions that disagree between the index, the register and the title block, and citations of out-of-date calculations. Issue stays with the engineers.
 
-*Capability template · Engineering firms · Quality management · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/deliverable-issue-completeness-check/)*
+*Workflow template · Engineering firms · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/deliverable-issue-completeness-check/)*
 
 ## The outcome
 
 The question on the day before issue is rarely "is the design right?" It is "is everything that should be in this package actually here, and does it all refer to the same version of itself?" Answering that by hand means opening the index, the revision register, the review records and every drawing's title block, and comparing them one at a time.
 
-This capability does that comparison against your firm's own issue checklist. For every document in the package it reports each checklist item as met, not met, or left for a person, with the facts beside it: the revision the index shows, the revision the register shows, the revision on the title block; the review record that exists, and for which revision, by whom, and when; the calculation a drawing cites and the revision it cites. Documents that appear in one list and not another are set apart.
+This workflow template does that comparison against your firm's own issue checklist. For every document in the package it reports each checklist item as met, not met, or left for a person, with the facts beside it: the revision the index shows, the revision the register shows, the revision on the title block; the review record that exists, and for which revision, by whom, and when; the calculation a drawing cites and the revision it cites. Documents that appear in one list and not another are set apart.
 
 A package can be complete and still wrong, and this check says nothing about which. It does not check a calculation, judge a design or sign anything off. The responsible engineer and the quality reviewer confirm technical adequacy and authorize issue, and every gap is written as a question for them.
 
@@ -54,7 +54,7 @@ Your own issue checklist is the standard, so the first change is to put it in th
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template in its own words from its own map of the work, with no third-party text. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it. The run was blind on the inputs, so the example's output was not visible to it, and it found ambiguities and gaps in the instruction block, since edited. Edits made afterward to the instructions, the output format and the example's wording have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template in its own words from its own map of the work, with no third-party text. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it. The run was blind on the inputs, so the example's output was not visible to it, and it found ambiguities and gaps in the instruction block, since edited. Edits made afterward to the instructions, the output format and the example's wording have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -65,11 +65,11 @@ Fully Powered AI wrote this capability template in its own words from its own ma
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -79,12 +79,12 @@ Fully Powered AI wrote this capability template in its own words from its own ma
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Completed engagement file review](https://fullypowered.ai/capabilities/completed-engagement-file-review/)
-- [Spreadsheet check before sharing](https://fullypowered.ai/capabilities/spreadsheet-check-before-sharing/)
-- [Submittal register review](https://fullypowered.ai/capabilities/submittal-register-review/)
+- [Completed engagement file review](https://fullypowered.ai/workflow templates/completed-engagement-file-review/)
+- [Spreadsheet check before sharing](https://fullypowered.ai/workflow templates/spreadsheet-check-before-sharing/)
+- [Submittal register review](https://fullypowered.ai/workflow templates/submittal-register-review/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

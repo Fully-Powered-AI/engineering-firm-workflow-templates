@@ -1,6 +1,6 @@
 # Site observation follow-up
 
-Capability template, version 0.1.1.
+Workflow template, version 0.1.1.
 
 ## Purpose
 
@@ -13,9 +13,9 @@ Use it after a visit, once the notes are typed up and the photographs for the re
 Do not use it:
 
 - to decide what a note means, how serious it is or whether work is acceptable. Those are the visiting engineer's decisions, and a photograph alone does not establish a concealed condition or that work is complete;
-- to build the list of items for a closeout walk. That is punch list consolidation, a separate capability template;
-- to follow up concerns about safety raised on a walk. That is safety walk follow-up, a separate capability template, and it belongs with the project's safety professional;
-- to review a contractor's submittals. That is submittal register review, a separate capability template.
+- to build the list of items for a closeout walk. That is punch list consolidation, a separate workflow template;
+- to follow up concerns about safety raised on a walk. That is safety walk follow-up, a separate workflow template, and it belongs with the project's safety professional;
+- to review a contractor's submittals. That is submittal register review, a separate workflow template.
 
 ## Roles
 
@@ -250,5 +250,5 @@ count and date before returning the report.
 
 ## Version notes
 
-- 0.1.1, 10 November 2026. After an independent review: how an owner in conflict is printed and counted, when a conflict shares a question with a past-due register entry, the order of questions, whole-word watch words (with "loose" added and a pointer to the project's safety professional), how a register entry shared by two notes is handled, and plain names for the related capability templates. Run again on the invented example after these changes.
+- 0.1.1, 10 November 2026. After an independent review: how an owner in conflict is printed and counted, when a conflict shares a question with a past-due register entry, the order of questions, whole-word watch words (with "loose" added and a pointer to the project's safety professional), how a register entry shared by two notes is handled, and plain names for the related workflow templates. Run again on the invented example after these changes.
 - 0.1.0, 10 November 2026. Written by Fully Powered AI from its own published map of the work. Editorially reviewed. It was tried on its invented example in Claude on 10 November 2026; the record is published with it (`public/trial.md`). The edits above were made after that first run, and the edited version was run again on the same example; both runs are in the record. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

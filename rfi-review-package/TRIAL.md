@@ -8,7 +8,7 @@ The inputs are the invented example in [example.md](example.md): an invented fir
 
 ## Inputs used
 
-The settings, the request (RFI-0042), the document index (7 rows), the three extracts, the four prior responses and the two routing rules, all as given under "The inputs" in example.md. The instructions followed were the fenced block in the capability template and its output format.
+The settings, the request (RFI-0042), the document index (7 rows), the three extracts, the four prior responses and the two routing rules, all as given under "The inputs" in example.md. The instructions followed were the fenced block in the workflow template and its output format.
 
 ## A flaw in how this trial was run
 

@@ -2,11 +2,11 @@
 
 After a site visit, the visiting engineer and the project manager get one observation report: each field note beside its location, source photograph, drawing revision and any earlier register entry, a proposed follow-up owner, and the questions still open. It assesses no condition.
 
-*Capability template · Engineering firms · Quality management · version 0.1.1 · [Capabilities Directory](https://fullypowered.ai/capabilities/site-observation-follow-up/)*
+*Workflow template · Engineering firms · Quality management · version 0.1.1 · [Workflows Directory](https://fullypowered.ai/workflow templates/site-observation-follow-up/)*
 
 ## The outcome
 
-A site visit leaves three piles: the field notes, the photographs and the register of earlier observations, with the drawings in a fourth place. This capability puts them side by side so that each note can be traced to where it was made, the picture that goes with it, the drawing revision the visitor had in hand and the earlier entry it touches.
+A site visit leaves three piles: the field notes, the photographs and the register of earlier observations, with the drawings in a fourth place. This workflow template puts them side by side so that each note can be traced to where it was made, the picture that goes with it, the drawing revision the visitor had in hand and the earlier entry it touches.
 
 Notes the visitor saw for themselves are kept apart from conditions someone else described, and a note that does not say which it is gets asked about, never assumed. The report states what was written down and nothing more. The visiting engineer verifies what was observed and approves every technical statement. The project manager confirms who follows up.
 
@@ -39,11 +39,11 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## What has to change for your company
 
-Use your own register status words and the column headers your register exports. Replace the watch list of words that call for a closer look with your own. Fill in the owner list so each discipline has a proposed follow-up role. Agree who counts as the visiting engineer for each kind of statement, and who confirms follow-up. This capability assesses no condition, compliance or safety. For a list of work items to close out, use [punch list consolidation](https://fullypowered.ai/capabilities/punch-list-consolidation/). For concerns about safety raised on a walk, use [safety walk follow-up](https://fullypowered.ai/capabilities/safety-walk-follow-up/). Neither is covered here.
+Use your own register status words and the column headers your register exports. Replace the watch list of words that call for a closer look with your own. Fill in the owner list so each discipline has a proposed follow-up role. Agree who counts as the visiting engineer for each kind of statement, and who confirms follow-up. This workflow template assesses no condition, compliance or safety. For a list of work items to close out, use [punch list consolidation](https://fullypowered.ai/workflows/punch-list-consolidation/). For concerns about safety raised on a walk, use [safety walk follow-up](https://fullypowered.ai/workflows/safety-walk-follow-up/). Neither is covered here.
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template in its own words from its own map of the work, with no third-party text. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the record is published with it. The template was edited after a review that followed that first run, and the edited version was run again on the same example; both runs are in the record. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template in its own words from its own map of the work, with no third-party text. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the record is published with it. The template was edited after a review that followed that first run, and the edited version was run again on the same example; both runs are in the record. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -54,11 +54,11 @@ Fully Powered AI wrote this capability template in its own words from its own ma
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -68,12 +68,12 @@ Fully Powered AI wrote this capability template in its own words from its own ma
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Punch list consolidation](https://fullypowered.ai/capabilities/punch-list-consolidation/)
-- [Safety walk follow-up](https://fullypowered.ai/capabilities/safety-walk-follow-up/)
-- [Submittal register review](https://fullypowered.ai/capabilities/submittal-register-review/)
+- [Punch list consolidation](https://fullypowered.ai/workflow templates/punch-list-consolidation/)
+- [Safety walk follow-up](https://fullypowered.ai/workflow templates/safety-walk-follow-up/)
+- [Submittal register review](https://fullypowered.ai/workflow templates/submittal-register-review/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

@@ -1,10 +1,10 @@
 {
   "id": "project-experience-sheet",
   "name": "Project experience sheet",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "For one finished project and one proposal, turn the firm's approved project records into a one-page experience sheet: the firm's role, the scope it performed, partners' work kept apart, and the record behind each line. Names, images and permissions still to confirm are listed for sign-off.",
-  "directory": "https://fullypowered.ai/capabilities/project-experience-sheet/",
+  "directory": "https://fullypowered.ai/workflow templates/project-experience-sheet/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content",

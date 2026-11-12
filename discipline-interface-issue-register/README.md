@@ -2,7 +2,7 @@
 
 After a coordination meeting exposes conflicts between disciplines, the design coordinator gets one register: each conflict from the minutes, linked to the clash-export rows and model revisions involved, with the lead who owns each system and the decision still needed. Nothing is resolved.
 
-*Capability template · Engineering firms · Project and delivery · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/discipline-interface-issue-register/)*
+*Workflow template · Engineering firms · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/discipline-interface-issue-register/)*
 
 ## The outcome
 
@@ -41,7 +41,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/), where coordination lives in a few people's notebooks and should live in one register.
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when more projects run at once than the coordinator can hold in mind.
 
-It is a different piece of work from [three-week look-ahead constraint review](https://fullypowered.ai/capabilities/three-week-look-ahead-constraint-review/), which looks at what could hold up planned site activity, from [project status report](https://fullypowered.ai/capabilities/project-status-report/), which reports a project's workstreams to its sponsor, and from [design assumption change register](https://fullypowered.ai/capabilities/design-assumption-change-register/), which records changes to client criteria and design assumptions against the design basis. None of them builds a register of conflicts between design disciplines.
+It is a different piece of work from [three-week look-ahead constraint review](https://fullypowered.ai/workflows/three-week-look-ahead-constraint-review/), which looks at what could hold up planned site activity, from [project status report](https://fullypowered.ai/workflows/project-status-report/), which reports a project's workstreams to its sponsor, and from [design assumption change register](https://fullypowered.ai/workflows/design-assumption-change-register/), which records changes to client criteria and design assumptions against the design basis. None of them builds a register of conflicts between design disciplines.
 
 ## What has to change for your company
 
@@ -49,9 +49,9 @@ Fill in your responsibilities table first; the register is only as good as the o
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in one run; the record is published with it, and lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in one run; the record is published with it, and lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on one or two past meetings your coordinator remembers well, plus hard cases written in advance: a system with no owner, a conflict cited in the minutes but missing from the export, an export run on an old revision, an item nobody was asked to take forward. The coordinator checks every link against the minutes and the export before anyone relies on the register. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on one or two past meetings your coordinator remembers well, plus hard cases written in advance: a system with no owner, a conflict cited in the minutes but missing from the export, an export run on an old revision, an item nobody was asked to take forward. The coordinator checks every link against the minutes and the export before anyone relies on the register. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -62,11 +62,11 @@ Testing in your environment means running it on one or two past meetings your co
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -76,13 +76,13 @@ Testing in your environment means running it on one or two past meetings your co
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Three-week look-ahead constraint review](https://fullypowered.ai/capabilities/three-week-look-ahead-constraint-review/)
-- [Project status report](https://fullypowered.ai/capabilities/project-status-report/)
+- [Three-week look-ahead constraint review](https://fullypowered.ai/workflow templates/three-week-look-ahead-constraint-review/)
+- [Project status report](https://fullypowered.ai/workflow templates/project-status-report/)
 - [Design assumption change register](../design-assumption-change-register/)
-- [Submittal register review](https://fullypowered.ai/capabilities/submittal-register-review/)
+- [Submittal register review](https://fullypowered.ai/workflow templates/submittal-register-review/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

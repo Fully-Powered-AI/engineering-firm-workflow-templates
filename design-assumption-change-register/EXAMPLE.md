@@ -1,6 +1,6 @@
 # Design assumption change register: an invented example
 
-*Illustrative example with invented data.* The firm, the project, the people and every figure below are invented. The firm is an invented engineering firm, called the Firm here, and the project is the invented Quay Road pump station upgrade. Roles stand in for people. The project engineer asks for the register on 10 November 2026. First come the inputs the project engineer supplied, in full, then the register the capability returned.
+*Illustrative example with invented data.* The firm, the project, the people and every figure below are invented. The firm is an invented engineering firm, called the Firm here, and the project is the invented Quay Road pump station upgrade. Roles stand in for people. The project engineer asks for the register on 10 November 2026. First come the inputs the project engineer supplied, in full, then the register the workflow template returned.
 
 ## The inputs
 

@@ -1,6 +1,6 @@
 # Deliverable issue completeness check
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -16,7 +16,7 @@ Do not use it:
 - to authorize issue. The assistant produces a checklist, not a release;
 - to review a finished engagement file after the work is done; use completed engagement file review for that;
 - to check a spreadsheet's formulas before it is shared; use spreadsheet check before sharing;
-- to create a checklist for a firm that has none. The firm writes its issue checklist; this capability applies it.
+- to create a checklist for a firm that has none. The firm writes its issue checklist; this workflow template applies it.
 
 ## Roles
 

@@ -1,15 +1,15 @@
 {
-  "repository": "Fully-Powered-AI/engineering-firm-capability-templates",
+  "repository": "Fully-Powered-AI/engineering-firm-workflow-templates",
   "title": "Engineering Firms",
   "term": "industries/engineering-firms",
-  "capabilities": [
+  "templates": [
     {
       "id": "deliverable-issue-completeness-check",
       "name": "Deliverable issue completeness check",
       "version": "0.1.0",
       "summary": "As a calculation, report or drawing package nears issue, the quality reviewer or document controller gets a checklist: missing review records, revisions that disagree between the index, the register and the title block, and citations of out-of-date calculations. Issue stays with the engineers.",
       "path": "deliverable-issue-completeness-check/",
-      "directory": "https://fullypowered.ai/capabilities/deliverable-issue-completeness-check/"
+      "directory": "https://fullypowered.ai/workflow templates/deliverable-issue-completeness-check/"
     },
     {
       "id": "design-assumption-change-register",
@@ -17,7 +17,7 @@
       "version": "0.1.0",
       "summary": "When client criteria or design assumptions change, the project engineer gets one sourced register: what changed, which recorded requirements it touches, how firm each source is, and what still needs confirmation. No design basis is altered.",
       "path": "design-assumption-change-register/",
-      "directory": "https://fullypowered.ai/capabilities/design-assumption-change-register/"
+      "directory": "https://fullypowered.ai/workflow templates/design-assumption-change-register/"
     },
     {
       "id": "discipline-interface-issue-register",
@@ -25,7 +25,7 @@
       "version": "0.1.0",
       "summary": "After a coordination meeting exposes conflicts between disciplines, the design coordinator gets one register: each conflict from the minutes, linked to the clash-export rows and model revisions involved, with the lead who owns each system and the decision still needed. Nothing is resolved.",
       "path": "discipline-interface-issue-register/",
-      "directory": "https://fullypowered.ai/capabilities/discipline-interface-issue-register/"
+      "directory": "https://fullypowered.ai/workflow templates/discipline-interface-issue-register/"
     },
     {
       "id": "project-experience-sheet",
@@ -33,7 +33,7 @@
       "version": "0.1.0",
       "summary": "For one finished project and one proposal, turn the firm's approved project records into a one-page experience sheet: the firm's role, the scope it performed, partners' work kept apart, and the record behind each line. Names, images and permissions still to confirm are listed for sign-off.",
       "path": "project-experience-sheet/",
-      "directory": "https://fullypowered.ai/capabilities/project-experience-sheet/"
+      "directory": "https://fullypowered.ai/workflow templates/project-experience-sheet/"
     },
     {
       "id": "rfi-review-package",
@@ -41,7 +41,7 @@
       "version": "0.1.0",
       "summary": "The project engineer gets one packet for each request for information: the register entry, the question word for word, the drawing revisions and specification extracts it touches, earlier responses, and a numbered list of what is unresolved. No answer is proposed.",
       "path": "rfi-review-package/",
-      "directory": "https://fullypowered.ai/capabilities/rfi-review-package/"
+      "directory": "https://fullypowered.ai/workflow templates/rfi-review-package/"
     },
     {
       "id": "site-observation-follow-up",
@@ -49,7 +49,7 @@
       "version": "0.1.1",
       "summary": "After a site visit, the visiting engineer and the project manager get one observation report: each field note beside its location, source photograph, drawing revision and any earlier register entry, a proposed follow-up owner, and the questions still open. It assesses no condition.",
       "path": "site-observation-follow-up/",
-      "directory": "https://fullypowered.ai/capabilities/site-observation-follow-up/"
+      "directory": "https://fullypowered.ai/workflow templates/site-observation-follow-up/"
     }
   ]
 }

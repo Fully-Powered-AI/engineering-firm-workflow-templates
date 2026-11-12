@@ -1,10 +1,10 @@
 {
   "id": "discipline-interface-issue-register",
   "name": "Discipline interface issue register",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "After a coordination meeting exposes conflicts between disciplines, the design coordinator gets one register: each conflict from the minutes, linked to the clash-export rows and model revisions involved, with the lead who owns each system and the decision still needed. Nothing is resolved.",
-  "directory": "https://fullypowered.ai/capabilities/discipline-interface-issue-register/",
+  "directory": "https://fullypowered.ai/workflow templates/discipline-interface-issue-register/",
   "primary_function": "functions/project-and-delivery",
   "functions": [
     "functions/project-and-delivery"

@@ -24,7 +24,7 @@
     "submittal-register-review"
   ],
   "evidence": {
-    "written_by": "Fully Powered AI",
+    "written_by": "FullyPowered AI",
     "source_and_rights_reviewed": true,
     "editorially_reviewed": "2026-11-10",
     "package_format_valid": true,
@@ -40,7 +40,7 @@
   "sources": [
     {
       "kind": "own",
-      "title": "Fully Powered AI's own design, written from its published map of the work of turning a coordination meeting's conflicts into an interface-issue register: each conflict taken from the minutes, linked to clash-export rows and model revisions, tied to the lead who owns each system, with the decision still needed and nothing resolved, proposed or checked in a model."
+      "title": "FullyPowered AI's own design, written from its published map of the work of turning a coordination meeting's conflicts into an interface-issue register: each conflict taken from the minutes, linked to clash-export rows and model revisions, tied to the lead who owns each system, with the decision still needed and nothing resolved, proposed or checked in a model."
     }
   ]
 }

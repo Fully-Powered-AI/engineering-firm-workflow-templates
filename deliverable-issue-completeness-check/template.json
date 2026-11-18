@@ -24,7 +24,7 @@
     "submittal-register-review"
   ],
   "evidence": {
-    "written_by": "Fully Powered AI",
+    "written_by": "FullyPowered AI",
     "source_and_rights_reviewed": true,
     "editorially_reviewed": "2026-11-10",
     "package_format_valid": true,
@@ -40,7 +40,7 @@
   "sources": [
     {
       "kind": "own",
-      "title": "Written by Fully Powered AI from its own published map of the work of releasing an engineering deliverable package (the trigger, inputs, output, decision and exceptions of the site's illustrative example), with the checklist tests, columns and result wording designed in the template itself."
+      "title": "Written by FullyPowered AI from its own published map of the work of releasing an engineering deliverable package (the trigger, inputs, output, decision and exceptions of the site's illustrative example), with the checklist tests, columns and result wording designed in the template itself."
     }
   ]
 }

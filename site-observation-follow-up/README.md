@@ -1,10 +1,17 @@
 # Site observation follow-up
 
-After a site visit, the visiting engineer and the project manager get one observation report: each field note beside its location, source photograph, drawing revision and any earlier register entry, a proposed follow-up owner, and the questions still open. It assesses no condition.
+After a site visit, one report setting each field note beside its photo, drawing revision and earlier entry, with open questions. An engineer verifies.
 
-*Workflow template · Engineering firms · Quality management · version 0.1.1 · [Workflows Directory](https://fullypowered.ai/workflows/site-observation-follow-up/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Site observation follow-up on our website](https://fullypowered.ai/workflows/site-observation-follow-up/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-site-observation-follow-up&from=gh-site-observation-follow-up) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/site-observation-follow-up/?from=gh-site-observation-follow-up)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Engineering firms · Quality management · version 0.1.1 · [Workflows Directory](https://fullypowered.ai/workflows/site-observation-follow-up/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-site-observation-follow-up&from=gh-site-observation-follow-up)*
 
 ## The outcome
 
@@ -33,15 +40,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/), where the visit report is the record the design team returns to.
-- [Construction](https://fullypowered.ai/industries/construction/), for teams that receive the visitor's questions and carry out the follow-up.
-- [Quality management](https://fullypowered.ai/functions/quality-management/), which wants a clean line from what was seen to what was done about it.
-- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/), which owns the follow-up and who is asked to do it.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), with a standing way of reporting from site.
+- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-site-observation-follow-up&from=gh-site-observation-follow-up), where the visit report is the record the design team returns to.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-site-observation-follow-up&from=gh-site-observation-follow-up), for teams that receive the visitor's questions and carry out the follow-up.
+- [Quality management](https://fullypowered.ai/functions/quality-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-site-observation-follow-up&from=gh-site-observation-follow-up), which wants a clean line from what was seen to what was done about it.
+- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-site-observation-follow-up&from=gh-site-observation-follow-up), which owns the follow-up and who is asked to do it.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-site-observation-follow-up&from=gh-site-observation-follow-up), with a standing way of reporting from site.
 
 ## What has to change for your company
 
-Use your own register status words and the column headers your register exports. Replace the watch list of words that call for a closer look with your own. Fill in the owner list so each discipline has a proposed follow-up role. Agree who counts as the visiting engineer for each kind of statement, and who confirms follow-up. This workflow template assesses no condition, compliance or safety. For a list of work items to close out, use [punch list consolidation](https://fullypowered.ai/workflows/punch-list-consolidation/). For concerns about safety raised on a walk, use [safety walk follow-up](https://fullypowered.ai/workflows/safety-walk-follow-up/). Neither is covered here.
+Use your own register status words and the column headers your register exports. Replace the watch list of words that call for a closer look with your own. Fill in the owner list so each discipline has a proposed follow-up role. Agree who counts as the visiting engineer for each kind of statement, and who confirms follow-up. This workflow template assesses no condition, compliance or safety. For a list of work items to close out, use [punch list consolidation](https://fullypowered.ai/workflows/punch-list-consolidation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-site-observation-follow-up&from=gh-site-observation-follow-up). For concerns about safety raised on a walk, use [safety walk follow-up](https://fullypowered.ai/workflows/safety-walk-follow-up/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-site-observation-follow-up&from=gh-site-observation-follow-up). Neither is covered here.
 
 ## What has been checked
 
@@ -72,10 +79,10 @@ FullyPowered AI wrote this workflow template in its own words from its own map o
 
 ## Related workflow templates
 
-- [Punch list consolidation](https://fullypowered.ai/workflows/punch-list-consolidation/)
-- [Safety walk follow-up](https://fullypowered.ai/workflows/safety-walk-follow-up/)
-- [Submittal register review](https://fullypowered.ai/workflows/submittal-register-review/)
+- [Punch list consolidation](https://fullypowered.ai/workflows/punch-list-consolidation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-site-observation-follow-up&from=gh-site-observation-follow-up)
+- [Safety walk follow-up](https://fullypowered.ai/workflows/safety-walk-follow-up/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-site-observation-follow-up&from=gh-site-observation-follow-up)
+- [Submittal register review](https://fullypowered.ai/workflows/submittal-register-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-site-observation-follow-up&from=gh-site-observation-follow-up)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-site-observation-follow-up&from=gh-site-observation-follow-up).

@@ -1,14 +1,52 @@
-# FullyPowered Workflow Templates: Engineering Firms
+# AI workflow templates for engineering firms
 
-Deliverables that go out complete, with nothing lost between disciplines. These workflow templates are written for engineering firms. They prepare the packaging, tracking and coordination records around the engineering. They design nothing, check no calculation and sign nothing off: the engineers do.
+FullyPowered Workflow Templates for engineering firms turn the AI your firm already pays for into a team that knows how the work is done: a project engineer with every request for information packed for review, a design coordinator with the conflicts between disciplines gathered into one register, a quality reviewer with the drawing package checked for gaps before issue. 6 workflow templates, made to be customized and deployed. All plain Markdown, all free, MIT license.
 
-**These are templates, made to be customized and deployed.** They are examples and a starting point, not a complete list: copy one, change it to fit how your team does the work, and run it in the AI you already pay for.
+We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
-**FullyPowered AI customizes and builds AI workflows that run in ChatGPT, Claude, Copilot and Gemini**, including ones that run several steps. [More examples for engineering firms](https://fullypowered.ai/industries/engineering-firms/?from=gh-engineering-firm) · [Have one built for your team](https://fullypowered.ai/pricing/?from=gh-engineering-firm)
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-readme&from=gh-engineering-firm-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-readme&from=gh-engineering-firm-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-This repository holds 6 workflow templates for project managers and coordinators at engineering firms. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
+**Who this is for**
 
-## The workflow templates
+- Principals and managing directors who want AI to carry real project work across the firm.
+- Heads of project delivery who want coordinators running a consistent method on every project this week.
+- The project manager or coordinator, who gets each packet prepared and still makes every engineering call.
+
+**What these are for**
+
+- **Your best way of doing it, for the whole team.** One piece of work, written down precisely enough that an assistant prepares it the same way every time.
+- **Work you can check.** Every template says what it needs, what it produces, what it checked and what it could not.
+- **A person decides.** Anything that sends, posts, pays or changes a record waits for someone to approve it.
+- **Tied into your business systems.** A workflow can be designed to pull from the systems your company already runs, and even push data back into them, with guardrails and a person approving. [Browse the Connectors Directory](https://fullypowered.ai/connectors/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-readme&from=gh-engineering-firm-readme).
+- **Free, open and portable.** MIT-licensed plain instructions that run in the assistant or agent your team already uses: ChatGPT, Claude, Claude Code, Claude Cowork, Codex, Copilot, Gemini, Grok, Perplexity.
+
+**Quick start**
+
+1. **Prepare one request for information in a few minutes.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into a new chat. Then paste in one real request for information from a contractor, your list of current drawing revisions, and any earlier answers on the project. Replace the square brackets with your own details. No sign-in to anything of ours, and nothing to download.
+
+   ```text
+   You prepare a review packet for a project engineer. You prepare; people decide. Never answer the technical question, say which document governs, check a design, estimate cost or time, or contact anyone. The engineer decides. I will paste: one request for information (number, subject, sender, discipline, dates, documents cited, the question), my document list with current revisions, short quotes from the documents it touches, and earlier responses. Today is [date]. Project: [name]. Build one packet: the request with the question word for word; each cited document checked against the current revision; quotes word for word; places where two documents print different values; earlier responses that touch the same documents; anything mentioned but not supplied; wording that hints at cost or time; then numbered questions for the engineer and the project manager. Say plainly that no response has been drafted. If something is missing, ask me instead of guessing.
+   ```
+
+2. Read what comes back. It marks what it checked and what is left for you. What a packet looks like, with invented data:
+
+   ```text
+   RFI REVIEW PACKAGE: Alder Street Parking Structure, RFI-0042
+
+   For: project engineer. Prepared Monday 16 November 2026 from: RFI text, document index (7 rows), extracts (3), prior responses (4 rows), routing rules (2 rows), settings.
+   Column check: all labels and headers matched.
+   Settings: response period 7 days, counted in calendar days. Defaults used: response period, effect words, stop words.
+   Summary: RFI-0042, response due in 4 days. Documents cited: 3 (1 revision differs, 0 not in index). Possibly related, not cited: 1. Printed values that differ: 1. Prior responses listed: 3 of 4 checked (2 cite an older revision). Mentioned but not supplied: 1. Possible effects on cost or time: 1. Open questions: 7 (6 for the responsible engineer, 1 for the project manager).
+   ```
+
+3. Stop there. You will know if this is for you. When you want it fitted to your company, or built into your agents, [that is what we do](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-readme&from=gh-engineering-firm-readme).
+
+A person starts each workflow, supplies the inputs and decides; the template prepares and checks, and the engineers design, review and sign.
+
+These are samples and a starting point, made to be changed to fit how your firm names things and who signs what. Your own work may not appear here, and a workflow can be one step or many, so we can build the one your firm needs.
+
+## The workflow templates here today
 
 - **[Deliverable issue completeness check](deliverable-issue-completeness-check/)**: As a calculation, report or drawing package nears issue, the quality reviewer or document controller gets a checklist: missing review records, revisions that disagree between the index, the register and the title block, and citations of out-of-date calculations. Issue stays with the engineers.
 - **[Design assumption change register](design-assumption-change-register/)**: When client criteria or design assumptions change, the project engineer gets one sourced register: what changed, which recorded requirements it touches, how firm each source is, and what still needs confirmation. No design basis is altered.
@@ -35,10 +73,10 @@ Each folder says exactly what was checked and when: who wrote it, that its sourc
 
 ## More workflow templates
 
-The [FullyPowered Workflows Directory](https://fullypowered.ai/workflows/) lists every workflow template across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
+The [FullyPowered Workflows Directory](https://fullypowered.ai/workflows/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-readme&from=gh-engineering-firm-readme) lists every workflow template across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
 
-For the work these templates come from, by area of the business and by task, see [AI workflow examples for engineering firms](https://fullypowered.ai/industries/engineering-firms/).
+For the work these templates come from, by area of the business and by task, see [AI workflow examples for engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-readme&from=gh-engineering-firm-readme).
 
 ## Licence and credits
 
-MIT, in [LICENSE](LICENSE) and in every folder. Each folder's SOURCES.md names what the workflow template drew on. Published by [FullyPowered AI](https://fullypowered.ai/).
+MIT, in [LICENSE](LICENSE) and in every folder. Each folder's SOURCES.md names what the workflow template drew on. Published by [FullyPowered AI](https://fullypowered.ai/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-readme&from=gh-engineering-firm-readme).

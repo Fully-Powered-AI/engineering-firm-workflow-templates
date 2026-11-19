@@ -1,10 +1,17 @@
 # Deliverable issue completeness check
 
-As a calculation, report or drawing package nears issue, the quality reviewer or document controller gets a checklist: missing review records, revisions that disagree between the index, the register and the title block, and citations of out-of-date calculations. Issue stays with the engineers.
+A checklist of missing review records and revisions that disagree before a package is issued. Issue stays with the engineers. Free template.
 
-*Workflow template · Engineering firms · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/deliverable-issue-completeness-check/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Deliverable issue completeness check on our website](https://fullypowered.ai/workflows/deliverable-issue-completeness-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-deliverable-issue-completeness-check&from=gh-deliverable-issue-completeness-check) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/deliverable-issue-completeness-check/?from=gh-deliverable-issue-completeness-check)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Engineering firms · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/deliverable-issue-completeness-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-deliverable-issue-completeness-check&from=gh-deliverable-issue-completeness-check)*
 
 ## The outcome
 
@@ -43,12 +50,12 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Quality management](https://fullypowered.ai/functions/quality-management/): the reviewer who confirms that a package is ready before it is issued.
-- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/): project managers and document controllers who run the issue date.
-- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/): calculation, report and drawing packages with a checker's approval on record.
-- [Construction](https://fullypowered.ai/industries/construction/): design and delivery packages going to a contractor or an authority.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): technical advisory work released as reports with supporting calculations.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/): firms with an issue procedure that already exists and needs to be applied the same way each time.
+- [Quality management](https://fullypowered.ai/functions/quality-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-deliverable-issue-completeness-check&from=gh-deliverable-issue-completeness-check): the reviewer who confirms that a package is ready before it is issued.
+- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-deliverable-issue-completeness-check&from=gh-deliverable-issue-completeness-check): project managers and document controllers who run the issue date.
+- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-deliverable-issue-completeness-check&from=gh-deliverable-issue-completeness-check): calculation, report and drawing packages with a checker's approval on record.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-deliverable-issue-completeness-check&from=gh-deliverable-issue-completeness-check): design and delivery packages going to a contractor or an authority.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-deliverable-issue-completeness-check&from=gh-deliverable-issue-completeness-check): technical advisory work released as reports with supporting calculations.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-deliverable-issue-completeness-check&from=gh-deliverable-issue-completeness-check): firms with an issue procedure that already exists and needs to be applied the same way each time.
 
 ## What has to change for your company
 
@@ -83,10 +90,10 @@ FullyPowered AI wrote this workflow template in its own words from its own map o
 
 ## Related workflow templates
 
-- [Completed engagement file review](https://fullypowered.ai/workflows/completed-engagement-file-review/)
-- [Spreadsheet check before sharing](https://fullypowered.ai/workflows/spreadsheet-check-before-sharing/)
-- [Submittal register review](https://fullypowered.ai/workflows/submittal-register-review/)
+- [Completed engagement file review](https://fullypowered.ai/workflows/completed-engagement-file-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-deliverable-issue-completeness-check&from=gh-deliverable-issue-completeness-check)
+- [Spreadsheet check before sharing](https://fullypowered.ai/workflows/spreadsheet-check-before-sharing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-deliverable-issue-completeness-check&from=gh-deliverable-issue-completeness-check)
+- [Submittal register review](https://fullypowered.ai/workflows/submittal-register-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-deliverable-issue-completeness-check&from=gh-deliverable-issue-completeness-check)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-deliverable-issue-completeness-check&from=gh-deliverable-issue-completeness-check).

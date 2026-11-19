@@ -1,10 +1,17 @@
 # Design assumption change register
 
-When client criteria or design assumptions change, the project engineer gets one sourced register: what changed, which recorded requirements it touches, how firm each source is, and what still needs confirmation. No design basis is altered.
+One sourced register of changed client criteria and design assumptions, with how firm each source is. A person confirms; no design basis is altered.
 
-*Workflow template · Engineering firms · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/design-assumption-change-register/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Design assumption change register on our website](https://fullypowered.ai/workflows/design-assumption-change-register/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-design-assumption-change-register&from=gh-design-assumption-change-register) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/design-assumption-change-register/?from=gh-design-assumption-change-register)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Engineering firms · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/design-assumption-change-register/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-design-assumption-change-register&from=gh-design-assumption-change-register)*
 
 ## The outcome
 
@@ -31,13 +38,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/), where a design basis is issued once and the client's criteria keep moving.
-- [Construction](https://fullypowered.ai/industries/construction/), where the designer and the builder both need to know which requirement a change touches.
-- [Energy](https://fullypowered.ai/industries/energy/), where design criteria depend on figures from utilities and regulators that arrive late.
-- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/), which owns the coordination records around the work.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where several projects run at once and each needs the same record kept the same way.
+- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-design-assumption-change-register&from=gh-design-assumption-change-register), where a design basis is issued once and the client's criteria keep moving.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-design-assumption-change-register&from=gh-design-assumption-change-register), where the designer and the builder both need to know which requirement a change touches.
+- [Energy](https://fullypowered.ai/industries/energy/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-design-assumption-change-register&from=gh-design-assumption-change-register), where design criteria depend on figures from utilities and regulators that arrive late.
+- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-design-assumption-change-register&from=gh-design-assumption-change-register), which owns the coordination records around the work.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-design-assumption-change-register&from=gh-design-assumption-change-register), where several projects run at once and each needs the same record kept the same way.
 
-It is a different piece of work from [Decision log](https://fullypowered.ai/workflows/decision-log/), which records what leadership approved, and from [Scope change impact review](https://fullypowered.ai/workflows/scope-change-impact-review/), which estimates what new work does to effort, cost and dates. This one only records what changed in the criteria and how firm it is.
+It is a different piece of work from [Decision log](https://fullypowered.ai/workflows/decision-log/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-design-assumption-change-register&from=gh-design-assumption-change-register), which records what leadership approved, and from [Scope change impact review](https://fullypowered.ai/workflows/scope-change-impact-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-design-assumption-change-register&from=gh-design-assumption-change-register), which estimates what new work does to effort, cost and dates. This one only records what changed in the criteria and how firm it is.
 
 ## What has to change for your company
 
@@ -47,7 +54,7 @@ Decide who may confirm for the client and write their names or roles into the se
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the record is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past change you already know, with cases written in advance: two values for one requirement from different client staff, a workshop remark that nobody approved, an instruction from someone who may not confirm. The responsible engineer checks every line against the source before anyone relies on the register. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up.
+Testing in your environment means running it on a past change you already know, with cases written in advance: two values for one requirement from different client staff, a workshop remark that nobody approved, an instruction from someone who may not confirm. The responsible engineer checks every line against the source before anyone relies on the register. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-design-assumption-change-register&from=gh-design-assumption-change-register) sets those cases up.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -74,10 +81,10 @@ Testing in your environment means running it on a past change you already know, 
 
 ## Related workflow templates
 
-- [Scope change impact review](https://fullypowered.ai/workflows/scope-change-impact-review/)
-- [Decision log](https://fullypowered.ai/workflows/decision-log/)
-- [Acceptance criteria sheet](https://fullypowered.ai/workflows/acceptance-criteria-sheet/)
+- [Scope change impact review](https://fullypowered.ai/workflows/scope-change-impact-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-design-assumption-change-register&from=gh-design-assumption-change-register)
+- [Decision log](https://fullypowered.ai/workflows/decision-log/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-design-assumption-change-register&from=gh-design-assumption-change-register)
+- [Acceptance criteria sheet](https://fullypowered.ai/workflows/acceptance-criteria-sheet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-design-assumption-change-register&from=gh-design-assumption-change-register)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-design-assumption-change-register&from=gh-design-assumption-change-register).

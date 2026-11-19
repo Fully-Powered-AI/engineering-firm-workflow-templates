@@ -1,10 +1,17 @@
 # Project experience sheet
 
-For one finished project and one proposal, turn the firm's approved project records into a one-page experience sheet: the firm's role, the scope it performed, partners' work kept apart, and the record behind each line. Names, images and permissions still to confirm are listed for sign-off.
+Turn approved project records into a one-page experience sheet for a proposal, with the firm's role and partners' work kept apart. People sign off.
 
-*Workflow template · Engineering firms · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/project-experience-sheet/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Project experience sheet on our website](https://fullypowered.ai/workflows/project-experience-sheet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-project-experience-sheet&from=gh-project-experience-sheet) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/project-experience-sheet/?from=gh-project-experience-sheet)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Engineering firms · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/project-experience-sheet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-project-experience-sheet&from=gh-project-experience-sheet)*
 
 ## The outcome
 
@@ -43,13 +50,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/): the sheet is a reusable piece of proof that proposals draw on.
-- [Sales](https://fullypowered.ai/functions/sales/): proposal teams need an example that matches the request, fast and without an argument over who did what.
-- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/): the project principal's verification is built in, and the sheet makes no statement about engineering.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): firms whose product is expertise show past work, and need the line between their own scope and others'.
-- [Construction](https://fullypowered.ai/industries/construction/): design-build and construction-support teams describe work done beside contractors and partners.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/): a firm with a long project history can keep each project's record in the same shape.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): a growing pursuit calendar needs sheets prepared by more people without drifting in what they claim.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-project-experience-sheet&from=gh-project-experience-sheet): the sheet is a reusable piece of proof that proposals draw on.
+- [Sales](https://fullypowered.ai/functions/sales/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-project-experience-sheet&from=gh-project-experience-sheet): proposal teams need an example that matches the request, fast and without an argument over who did what.
+- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-project-experience-sheet&from=gh-project-experience-sheet): the project principal's verification is built in, and the sheet makes no statement about engineering.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-project-experience-sheet&from=gh-project-experience-sheet): firms whose product is expertise show past work, and need the line between their own scope and others'.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-project-experience-sheet&from=gh-project-experience-sheet): design-build and construction-support teams describe work done beside contractors and partners.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-project-experience-sheet&from=gh-project-experience-sheet): a firm with a long project history can keep each project's record in the same shape.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-project-experience-sheet&from=gh-project-experience-sheet): a growing pursuit calendar needs sheets prepared by more people without drifting in what they claim.
 
 ## What has to change for your company
 
@@ -64,7 +71,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it and lists the small edits made afterward that have not been run again. It has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a finished project the principal knows well, plus cases written in advance with the expected result: a row about a partner's work marked as the firm's, a result quoted from a newsletter, a header that has been renamed, an image whose permission is still pending, a request to make the firm's role sound larger. The principal checks every line against the records before anyone relies on the sheet. [Customer case study](https://fullypowered.ai/workflows/customer-case-study/) is the workflow template for telling a project in the client's own words, and [Bid or no-bid and RFP response plan](https://fullypowered.ai/workflows/bid-or-no-bid-and-rfp-response-plan/) is the one for deciding whether to respond at all.
+Testing in your environment means running it on a finished project the principal knows well, plus cases written in advance with the expected result: a row about a partner's work marked as the firm's, a result quoted from a newsletter, a header that has been renamed, an image whose permission is still pending, a request to make the firm's role sound larger. The principal checks every line against the records before anyone relies on the sheet. [Customer case study](https://fullypowered.ai/workflows/customer-case-study/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-project-experience-sheet&from=gh-project-experience-sheet) is the workflow template for telling a project in the client's own words, and [Bid or no-bid and RFP response plan](https://fullypowered.ai/workflows/bid-or-no-bid-and-rfp-response-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-project-experience-sheet&from=gh-project-experience-sheet) is the one for deciding whether to respond at all.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -91,10 +98,10 @@ Testing in your environment means running it on a finished project the principal
 
 ## Related workflow templates
 
-- [Customer case study](https://fullypowered.ai/workflows/customer-case-study/)
-- [Bid or no-bid and RFP response plan](https://fullypowered.ai/workflows/bid-or-no-bid-and-rfp-response-plan/)
-- [Sales proposal preparation](https://fullypowered.ai/workflows/sales-proposal-preparation/)
+- [Customer case study](https://fullypowered.ai/workflows/customer-case-study/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-project-experience-sheet&from=gh-project-experience-sheet)
+- [Bid or no-bid and RFP response plan](https://fullypowered.ai/workflows/bid-or-no-bid-and-rfp-response-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-project-experience-sheet&from=gh-project-experience-sheet)
+- [Sales proposal preparation](https://fullypowered.ai/workflows/sales-proposal-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-project-experience-sheet&from=gh-project-experience-sheet)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-project-experience-sheet&from=gh-project-experience-sheet).

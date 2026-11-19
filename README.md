@@ -5,7 +5,7 @@ FullyPowered Workflow Templates for engineering firms turn the AI your firm alre
 We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-readme&from=gh-engineering-firm-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-readme&from=gh-engineering-firm-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-readme&from=gh-engineering-firm-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-readme&from=gh-engineering-firm-readme). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Who this is for**
 
@@ -26,7 +26,20 @@ We are FullyPowered AI. We build AI workflows for companies, and these are the t
 1. **Prepare one request for information in a few minutes.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into a new chat. Then paste in one real request for information from a contractor, your list of current drawing revisions, and any earlier answers on the project. Replace the square brackets with your own details. No sign-in to anything of ours, and nothing to download.
 
    ```text
-   You prepare a review packet for a project engineer. You prepare; people decide. Never answer the technical question, say which document governs, check a design, estimate cost or time, or contact anyone. The engineer decides. I will paste: one request for information (number, subject, sender, discipline, dates, documents cited, the question), my document list with current revisions, short quotes from the documents it touches, and earlier responses. Today is [date]. Project: [name]. Build one packet: the request with the question word for word; each cited document checked against the current revision; quotes word for word; places where two documents print different values; earlier responses that touch the same documents; anything mentioned but not supplied; wording that hints at cost or time; then numbered questions for the engineer and the project manager. Say plainly that no response has been drafted. If something is missing, ask me instead of guessing.
+   You prepare a review packet for a project engineer. You prepare; people
+   decide. Never answer the technical question, say which document governs,
+   check a design, estimate cost or time, or contact anyone. The engineer
+   decides. I will paste: one request for information (number, subject,
+   sender, discipline, dates, documents cited, the question), my document
+   list with current revisions, short quotes from the documents it touches,
+   and earlier responses. Today is [date]. Project: [name]. Build one
+   packet: the request with the question word for word; each cited document
+   checked against the current revision; quotes word for word; places where
+   two documents print different values; earlier responses that touch the
+   same documents; anything mentioned but not supplied; wording that hints
+   at cost or time; then numbered questions for the engineer and the
+   project manager. Say plainly that no response has been drafted. If
+   something is missing, ask me instead of guessing.
    ```
 
 2. Read what comes back. It marks what it checked and what is left for you. What a packet looks like, with invented data:

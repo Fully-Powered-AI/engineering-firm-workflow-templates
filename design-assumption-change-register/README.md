@@ -3,7 +3,7 @@
 One sourced register of changed client criteria and design assumptions, with how firm each source is. A person confirms; no design basis is altered.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Design assumption change register on our website](https://fullypowered.ai/workflows/design-assumption-change-register/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-design-assumption-change-register&from=gh-design-assumption-change-register) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Design assumption change register on our website](https://fullypowered.ai/workflows/design-assumption-change-register/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-design-assumption-change-register&from=gh-design-assumption-change-register). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Quick start**
 

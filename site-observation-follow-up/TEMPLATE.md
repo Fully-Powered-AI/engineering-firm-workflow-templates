@@ -117,7 +117,7 @@ Write [weekday date] like Monday 9 November 2026. Every item the instructions re
 
 ## Acceptance tests
 
-Proposed tests. They have not been run as a set; the trial in `public/trial.md` ran the invented example only.
+Proposed tests. They have not been run as a set; the trial in `public/trial.md` ran the example only.
 
 1. **Normal visit.** Several observed notes, one reported, one linked entry. Expected: three groups, side-by-side register wording, owners proposed, counts that agree.
 2. **No basis stated.** A blank `basis`. Expected: listed under Basis not stated and in Data checks, with a question; never under observed.
@@ -250,5 +250,5 @@ count and date before returning the report.
 
 ## Version notes
 
-- 0.1.1, 10 November 2026. After an independent review: how an owner in conflict is printed and counted, when a conflict shares a question with a past-due register entry, the order of questions, whole-word watch words (with "loose" added and a pointer to the project's safety professional), how a register entry shared by two notes is handled, and plain names for the related workflow templates. Run again on the invented example after these changes.
-- 0.1.0, 10 November 2026. Written by FullyPowered AI from its own published map of the work. Editorially reviewed. It was tried on its invented example in Claude on 10 November 2026; the record is published with it (`public/trial.md`). The edits above were made after that first run, and the edited version was run again on the same example; both runs are in the record. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.1, 10 November 2026. After an independent review: how an owner in conflict is printed and counted, when a conflict shares a question with a past-due register entry, the order of questions, whole-word watch words (with "loose" added and a pointer to the project's safety professional), how a register entry shared by two notes is handled, and plain names for the related workflow templates. Run again on the example after these changes.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI from its own published map of the work. Editorially reviewed. It was tried on its example in Claude on 10 November 2026; the record is published with it (`public/trial.md`). The edits above were made after that first run, and the edited version was run again on the same example; both runs are in the record. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

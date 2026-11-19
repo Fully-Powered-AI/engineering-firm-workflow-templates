@@ -8,7 +8,7 @@ Turn coordination meeting minutes and a clash export into one issue register wit
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Engineering firms · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/discipline-interface-issue-register/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-discipline-interface-issue-register&from=gh-discipline-interface-issue-register)*
@@ -40,7 +40,7 @@ The design coordinator starts it after a coordination meeting, once the minutes 
 
 One register in a fixed order. Each issue has a number, the conflict, its location, the systems with their leads, the export rows linked (stated, or only possible), the model references each marked current, outdated or not in the index, the lead the minutes named, the direction the meeting recorded, the decision needed and its status. Under the issues: a short list for the coordinator to confirm, export rows nobody discussed, sketches that cite no issue and anything carried forward. If the inputs do not line up, the assistant stops and asks before writing anything.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -58,7 +58,7 @@ Fill in your responsibilities table first; the register is only as good as the o
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in one run; the record is published with it, and lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its example on 10 November 2026 in one run; the record is published with it, and lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on one or two past meetings your coordinator remembers well, plus hard cases written in advance: a system with no owner, a conflict cited in the minutes but missing from the export, an export run on an old revision, an item nobody was asked to take forward. The coordinator checks every link against the minutes and the export before anyone relies on the register. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-discipline-interface-issue-register&from=gh-discipline-interface-issue-register) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-discipline-interface-issue-register&from=gh-discipline-interface-issue-register) describes the record we keep.
 
@@ -66,13 +66,13 @@ Testing in your environment means running it on one or two past meetings your co
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

@@ -1,10 +1,10 @@
-# RFI review package: a trial on the invented example
+# RFI review package: a trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in [example.md](example.md): an invented firm, project, contractor and documents. No client data was used.
+The inputs are the example in [example.md](example.md): an illustrative firm, project, contractor and documents. No client data was used.
 
 ## Inputs used
 

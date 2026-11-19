@@ -8,7 +8,7 @@ After a site visit, one report setting each field note beside its photo, drawing
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Engineering firms · Quality management · version 0.1.1 · [Workflows Directory](https://fullypowered.ai/workflows/site-observation-follow-up/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-site-observation-follow-up&from=gh-site-observation-follow-up)*
@@ -36,7 +36,7 @@ The visiting engineer, or the project manager working with them, runs it once th
 
 One report in a fixed order: a summary, data checks, the notes separated into directly observed, reported and basis not stated, then the earlier entries with no note this visit, photographs that no note cites, and numbered questions, split between the visiting engineer and the project manager. Where a section is empty it says so.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -52,19 +52,19 @@ Use your own register status words and the column headers your register exports.
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template in its own words from its own map of the work, with no third-party text. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the record is published with it. The template was edited after a review that followed that first run, and the edited version was run again on the same example; both runs are in the record. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template in its own words from its own map of the work, with no third-party text. It was editorially reviewed on 10 November 2026. It was tried on its example in Claude on 10 November 2026; the record is published with it. The template was edited after a review that followed that first run, and the edited version was run again on the same example; both runs are in the record. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

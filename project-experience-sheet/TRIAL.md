@@ -1,11 +1,11 @@
-# Project experience sheet: trial on the invented example
+# Project experience sheet: trial on the example
 
 - **Product:** Claude, run in Claude Code
 
 Model: Claude Sonnet 5.5 (model ID claude-sonnet-5-5).
 Date: 2026-11-10.
 
-The inputs were the invented example in `public/example.md` (the request and settings, a fourteen-row statement register and a five-row permissions register). No client data was used. The assistant followed the fenced instruction block and the output format in `member/template.md`. It did not execute or install anything.
+The inputs were the example in `public/example.md` (the request and settings, a fourteen-row statement register and a five-row permissions register). No client data was used. The assistant followed the fenced instruction block and the output format in `member/template.md`. It did not execute or install anything.
 
 One disclosure about how the trial was run: the example file was printed in one piece, so the first part of its published output (the header and the start of the sheet) was visible before the run. The full output below was still produced from the instructions and the inputs, step by step, and the comparison was made afterwards.
 
@@ -158,7 +158,7 @@ Differences from the published example output, compared after the run (the sheet
 
 Facts in either output that are not in the inputs: none found. "Conditions: shows the contractor's crew" for K5 is copied from the conditions column in both.
 
-Shortcomings of the trial: one run, one product, one set of invented inputs. The acceptance tests listed in the template (renamed headers, no yes row, two projects, an instruction hidden in a record, a tighter length limit and others) were not run. This trial shows the template can produce a complete sheet from clean inputs; it does not show how it handles messy ones.
+Shortcomings of the trial: one run, one product, one set of sample inputs. The acceptance tests listed in the template (renamed headers, no yes row, two projects, an instruction hidden in a record, a tighter length limit and others) were not run. This trial shows the template can produce a complete sheet from clean inputs; it does not show how it handles messy ones.
 
 ## Edits after this run, not run again
 

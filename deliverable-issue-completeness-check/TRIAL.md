@@ -1,10 +1,10 @@
-# Deliverable issue completeness check: a trial on the invented example
+# Deliverable issue completeness check: a trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs were the invented example in `public/example.md` (settings, issue checklist, deliverable index, revision register, review approvals and calculation references). No client data was used. The run followed the instruction block and the output format in `member/template.md`. The run read only the inputs first and compared its output with the published example afterwards. The run was done by a model that did not write the template.
+The inputs were the example in `public/example.md` (settings, issue checklist, deliverable index, revision register, review approvals and calculation references). No client data was used. The run followed the instruction block and the output format in `member/template.md`. The run read only the inputs first and compared its output with the published example afterwards. The run was done by a model that did not write the template.
 
 ## What came out
 
@@ -92,6 +92,6 @@ Completeness check only. No calculation has been checked, no design judged and n
 - **Step 5 has a stray semicolon** ("not in the index; Print what was found").
 - **The instruction block is shorter than the procedure.** It omits the "no checklist items apply" and zero-count lines, the rule for a missing register revision, and the By hand reasons for unsupplied approvals. These sit in the output-format section the person pastes with it, but not in the block itself.
 - **Note added after the run (10 November 2026):** the wording ambiguities above on who decides a By hand calc-reference, more than one role per group, the stray semicolon and the zero-count lines in the instruction block were addressed afterwards in the template, and the missing-register-revision rule and the reason for unsupplied approvals are now in the block too. The "[your ...]" marker is the customization convention, not an unfilled placeholder. These later edits have not been run again; the observations above record the run as it was.
-- The acceptance tests in the template are still marked "Proposed. None has been run." This run covers only the invented example, not those sixteen tests.
+- The acceptance tests in the template are still marked "Proposed. None has been run." This run covers only the example, not those sixteen tests.
 
-This was one run by one model on one invented example. It does not show how the template performs on a real package or in other AI products.
+This was one run by one model on one example. It does not show how the template performs on a real package or in other AI products.

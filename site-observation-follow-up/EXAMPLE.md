@@ -1,6 +1,6 @@
-# Site observation follow-up: an invented example
+# Site observation follow-up: an example
 
-*Illustrative example with invented data.* The project (the Cedar Yard Annex, a small two-storey building), the contractors (Contractor A, B and C), the drawings, the notes, the photographs and every date below are invented. People are referred to by role. The project manager runs the report on Monday 9 November 2026, after a visit by the visiting engineer on Thursday 5 November 2026.
+*Illustrative example with sample data.* The project (the Cedar Yard Annex, a small two-storey building), the contractors (Contractor A, B and C), the drawings, the notes, the photographs and every date below are illustrative. People are referred to by role. The project manager runs the report on Monday 9 November 2026, after a visit by the visiting engineer on Thursday 5 November 2026.
 
 The inputs come first, in full, so the template can be run on them. The report follows.
 

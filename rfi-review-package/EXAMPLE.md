@@ -1,6 +1,6 @@
-# RFI review package: an invented example
+# RFI review package: an example
 
-*Illustrative example with invented data.* The firm, the project, the contractor, the people, the documents and every number below are invented. Firm Z is an invented engineering firm. Dana, its project engineer, is the invented person running the work. Contractor A, the builder of an invented parking structure, has sent a request for information. First come the inputs Dana supplied, in full, then the packet the workflow template returned.
+*Illustrative example with sample data.* The firm, the project, the contractor, the people, the documents and every number below are illustrative. Firm Z is an illustrative engineering firm. Dana, its project engineer, is the illustrative person running the work. Contractor A, the builder of an illustrative parking structure, has sent a request for information. First come the inputs Dana supplied, in full, then the packet the workflow template returned.
 
 ## The inputs
 

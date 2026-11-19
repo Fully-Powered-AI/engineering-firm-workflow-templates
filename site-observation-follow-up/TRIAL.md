@@ -1,10 +1,10 @@
-# Site observation follow-up: two trial runs on the invented example
+# Site observation follow-up: two trial runs on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10 (both runs)
 
-This record holds two runs. The first was made on version 0.1.0 and is kept exactly as it was recorded, including the findings that led to the fixes. The second was made on version 0.1.1, after those fixes, and is described after it. The inputs are the invented example published with this workflow template. No client data was used. The model was given only the template's instruction block and output format, and the six invented inputs from `public/example.md` (visit details, field notes, photograph set, drawing register, prior observation register, owner list). It did not see the example's report until after it had produced its own. The model that made the first run did not write the template; see the second run for its limits.
+This record holds two runs. The first was made on version 0.1.0 and is kept exactly as it was recorded, including the findings that led to the fixes. The second was made on version 0.1.1, after those fixes, and is described after it. The inputs are the example published with this workflow template. No client data was used. The model was given only the template's instruction block and output format, and the six sample inputs from `public/example.md` (visit details, field notes, photograph set, drawing register, prior observation register, owner list). It did not see the example's report until after it had produced its own. The model that made the first run did not write the template; see the second run for its limits.
 
 ## First run (version 0.1.0): what came out
 
@@ -90,7 +90,7 @@ It was compared with the example's published report afterwards. The two agree on
 - **Watch words.** The template does not say whether a watch word matches inside a longer word (for example "safe" inside "unsafe", or "done" inside "abandoned") or only as a whole word, or whether other forms count (for example "completes" for "complete"). This run matched whole words only. The list also leaves out words that appear in the example, such as "sealed", which was correctly not flagged.
 - **Link by text** is on location and element only, so F-06 (anchor bolts) links to OBS-03 (a chipped grout pad) because both are at Grid B/2, Column base. The template says a link is only a pointer, and this run said no more than that, but a reader may find the link surprising.
 - **Square-bracket references** in the "When to use it" section, such as [punch list consolidation], read as placeholders to fill in. They name other workflow templates and are not marked as links.
-- **Version notes** still say the template has not yet been tried on its invented example. They will need updating once this record is accepted.
+- **Version notes** still say the template has not yet been tried on its example. They will need updating once this record is accepted.
 
 The first run's note that its example's report differs on owner counts and project manager questions describes the example as it stood then. The example was corrected afterwards (see the second run).
 
@@ -102,7 +102,7 @@ After an independent review of the first run, the template was edited. A conflic
 
 ## Second run: what came out
 
-The model was given only the 0.1.1 instruction block and output format and the six invented inputs, in one Claude Code session. It is the same model that edited the template, so this run is not independent; it shows whether the edited instructions produce the corrected report, not whether a fresh reader would. It produced the following.
+The model was given only the 0.1.1 instruction block and output format and the six sample inputs, in one Claude Code session. It is the same model that edited the template, so this run is not independent; it shows whether the edited instructions produce the corrected report, not whether a fresh reader would. It produced the following.
 
 **SITE OBSERVATION REPORT: the Cedar Yard Annex, visit of Thursday 5 November 2026**
 

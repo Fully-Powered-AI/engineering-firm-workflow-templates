@@ -8,7 +8,7 @@ A checklist of missing review records and revisions that disagree before a packa
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Engineering firms · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/deliverable-issue-completeness-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=engineering-firm-deliverable-issue-completeness-check&from=gh-deliverable-issue-completeness-check)*
@@ -46,7 +46,7 @@ If a list's columns are named differently from the ones the template expects, th
 
 In a good checklist, every result traces to a row in a list you supplied, and no gap is described as a conclusion about the design.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -63,19 +63,19 @@ Your own issue checklist is the standard, so the first change is to put it in th
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template in its own words from its own map of the work, with no third-party text. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it. The run was blind on the inputs, so the example's output was not visible to it, and it found ambiguities and gaps in the instruction block, since edited. Edits made afterward to the instructions, the output format and the example's wording have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template in its own words from its own map of the work, with no third-party text. It was editorially reviewed on 10 November 2026. It was tried once on its example in Claude on 10 November 2026; the record is published with it. The run was blind on the inputs, so the example's output was not visible to it, and it found ambiguities and gaps in the instruction block, since edited. Edits made afterward to the instructions, the output format and the example's wording have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

@@ -1,10 +1,10 @@
-# Design assumption change register: tried on its invented example
+# Design assumption change register: tried on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in [example.md](example.md): the Quay Road pump station upgrade, its six recorded requirements, six source items, one previous register row and the settings. No client data was used. This is the third pass. Earlier passes used earlier wording of the instruction block and are replaced by this record. After an independent review, the instruction block, the output format and the example were revised: partial topic matches are defined, the "Requirements touched" line is dropped, the reasons after "Not confirmed" have set wording, the "today not given" rule is in the instruction block, and statements with no recorded requirement are listed under For confirmation. This pass applied the revised instruction block to the four inputs from the example, line by line. It was not blind and it was not a fresh independent run: the model that ran it is the one that made the revisions, it had the earlier register in front of it, and it changed only the lines the revisions affect. It did not write the original template.
+The inputs are the example in [example.md](example.md): the Quay Road pump station upgrade, its six recorded requirements, six source items, one previous register row and the settings. No client data was used. This is the third pass. Earlier passes used earlier wording of the instruction block and are replaced by this record. After an independent review, the instruction block, the output format and the example were revised: partial topic matches are defined, the "Requirements touched" line is dropped, the reasons after "Not confirmed" have set wording, the "today not given" rule is in the instruction block, and statements with no recorded requirement are listed under For confirmation. This pass applied the revised instruction block to the four inputs from the example, line by line. It was not blind and it was not a fresh independent run: the model that ran it is the one that made the revisions, it had the earlier register in front of it, and it changed only the lines the revisions affect. It did not write the original template.
 
 ## Inputs used
 

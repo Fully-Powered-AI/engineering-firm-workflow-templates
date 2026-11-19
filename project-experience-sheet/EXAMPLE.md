@@ -1,6 +1,6 @@
-# Project experience sheet: an invented example
+# Project experience sheet: an example
 
-*Illustrative example with invented data.* Firm E, the parks authority, City M, Firm Q, Firm G, Contractor C, the project and every record named below are invented. Firm E is an invented 40-person civil and structural engineering firm. Its proposal lead is answering a request for qualifications from City M and wants to show one finished footbridge project.
+*Illustrative example with sample data.* Firm E, the parks authority, City M, Firm Q, Firm G, Contractor C, the project and every record named below are illustrative. Firm E is an illustrative 40-person civil and structural engineering firm. Its proposal lead is answering a request for qualifications from City M and wants to show one finished footbridge project.
 
 The inputs come first, in full, so the template can be run on them. The output follows.
 

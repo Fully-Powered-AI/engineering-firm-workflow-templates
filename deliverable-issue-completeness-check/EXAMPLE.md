@@ -1,6 +1,6 @@
-# Deliverable issue completeness check: an invented example
+# Deliverable issue completeness check: an example
 
-*Illustrative example with invented data.* The firm, the project, the people and every document below are invented. Engineering Firm A is an invented consulting engineering firm. Priya, its document controller, is checking the package for a bridge deck rehabilitation (an invented project, "Site 7") on 15 October 2026, five days before the planned issue to the client. First come the inputs she supplied, in full, then the checklist the workflow template returned.
+*Illustrative example with sample data.* The firm, the project, the people and every document below are illustrative. Engineering Firm A is an illustrative consulting engineering firm. Priya, its document controller, is checking the package for a bridge deck rehabilitation (an illustrative project, "Site 7") on 15 October 2026, five days before the planned issue to the client. First come the inputs she supplied, in full, then the checklist the workflow template returned.
 
 ## The inputs
 

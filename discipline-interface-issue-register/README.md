@@ -4,6 +4,8 @@ After a coordination meeting exposes conflicts between disciplines, the design c
 
 *Workflow template · Engineering firms · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/discipline-interface-issue-register/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/discipline-interface-issue-register/?from=gh-discipline-interface-issue-register)
+
 ## The outcome
 
 A conflict raised on Thursday does not go missing by the next meeting. The coordinator leaves the room with a numbered register: what the conflict is, in the words of the minutes, where it is, which systems and which disciplines are involved, which rows of the clash export touch it, which model revisions those rows were run against, and which lead owns each system.

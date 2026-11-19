@@ -4,6 +4,8 @@ When client criteria or design assumptions change, the project engineer gets one
 
 *Workflow template · Engineering firms · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/design-assumption-change-register/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/design-assumption-change-register/?from=gh-design-assumption-change-register)
+
 ## The outcome
 
 The project engineer opens one page and sees every change to the design criteria since the design basis was issued. Each entry gives the recorded value, the value now being stated, the exact words and the date it came from, and who has or has not confirmed it. Where a client instruction, a workshop remark and an earlier register entry disagree, all of them are shown side by side and none is chosen.

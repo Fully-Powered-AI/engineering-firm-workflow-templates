@@ -4,6 +4,8 @@ As a calculation, report or drawing package nears issue, the quality reviewer or
 
 *Workflow template · Engineering firms · Quality management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/deliverable-issue-completeness-check/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/deliverable-issue-completeness-check/?from=gh-deliverable-issue-completeness-check)
+
 ## The outcome
 
 The question on the day before issue is rarely "is the design right?" It is "is everything that should be in this package actually here, and does it all refer to the same version of itself?" Answering that by hand means opening the index, the revision register, the review records and every drawing's title block, and comparing them one at a time.

@@ -4,6 +4,8 @@ The project engineer gets one packet for each request for information: the regis
 
 *Workflow template · Engineering firms · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/rfi-review-package/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/rfi-review-package/?from=gh-engineering-firm-rfi-review-package)
+
 ## The outcome
 
 A request for information usually arrives as an email or a form with a sentence or two and a drawing number. Before anyone can answer it, someone has to find the drawing at its current revision, pull the specification section, remember whether a similar question was answered a month ago, and work out who should look at it. This workflow template does that gathering and puts it on one page.

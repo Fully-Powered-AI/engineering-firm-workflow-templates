@@ -4,6 +4,8 @@ After a site visit, the visiting engineer and the project manager get one observ
 
 *Workflow template · Engineering firms · Quality management · version 0.1.1 · [Workflows Directory](https://fullypowered.ai/workflows/site-observation-follow-up/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/site-observation-follow-up/?from=gh-site-observation-follow-up)
+
 ## The outcome
 
 A site visit leaves three piles: the field notes, the photographs and the register of earlier observations, with the drawings in a fourth place. This workflow template puts them side by side so that each note can be traced to where it was made, the picture that goes with it, the drawing revision the visitor had in hand and the earlier entry it touches.

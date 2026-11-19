@@ -4,6 +4,8 @@ For one finished project and one proposal, turn the firm's approved project reco
 
 *Workflow template · Engineering firms · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/project-experience-sheet/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/project-experience-sheet/?from=gh-project-experience-sheet)
+
 ## The outcome
 
 A proposal asks for a relevant example of your work, and you have the project: finished, filed, and remembered differently by each person who worked on it. You get a project sheet that says only what your records support. It states the firm's role as the agreement gave it, lists the scope your firm performed, and shows in a separate place the work that partners performed. Beside each line sits the record it comes from.
